@@ -7,12 +7,15 @@ body{
     background-color: rgba(44, 77, 51, 0.747);
     background-image: url(https://i2-prod.mirror.co.uk/incoming/article24845073.ece/ALTERNATES/s615b/0_GettyImages-1314972402.jpg);
     background-blend-mode:multiply;
+    
 }
 
 
 .input{
     text-align: center;
     margin-top: 10%;
+    
+    
     
     
     
@@ -63,6 +66,13 @@ p{
     margin: 40px;
    
 }
+#sayi1,#sayi2,#sayi3,#sayi4,#sayi5,#sayi{
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-size: xx-large;
+}
+
+
 
 
 
