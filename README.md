@@ -1,1 +1,1 @@
-# Lottery_game
+# Lottery-Game
